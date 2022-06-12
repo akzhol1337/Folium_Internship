@@ -1,4 +1,4 @@
-package cloud.folium.aggregationVsSegregation;
+package cloud.folium.aggregationVsComposition;
 
 import java.util.ArrayList;
 
